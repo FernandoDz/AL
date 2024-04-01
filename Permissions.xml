@@ -1,0 +1,22 @@
+<PermissionSets>
+    <PermissionSets RoleID = "CustomerCategorySetup" RoleName = "Customer Category Setup">
+        <Permission>
+        <ObjecType>Table Data</ObjecType>
+        <ObjecID>50100</ObjecID>
+        <InsertPermission>Yes</InsertPermission>
+        <ModifyPermission>Yes</ModifyPermission>
+        <DeletePermission>Yes</DeletePermission>
+        <ExecutePermission>Yes</ExecutePermission>
+        <SecurituFilter />
+        </Permission>
+        <Permission>
+        <ObjecType>Table Data</ObjecType>
+        <ObjecID>50101</ObjecID>
+        <InsertPermission>Yes</InsertPermission>
+        <ModifyPermission>Yes</ModifyPermission>
+        <DeletePermission>Yes</DeletePermission>
+        <ExecutePermission>Yes</ExecutePermission>
+        <SecurituFilter />
+        </Permission>
+    </PermissionSets>
+</PermissionSets>
